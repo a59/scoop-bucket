@@ -5,11 +5,11 @@
 	"architecture": {
 		"32bit": {
 			"url": "http://strawberryperl.com/download/5.20.1.1/strawberry-perl-5.20.1.1-32bit-portable.zip",
-			"hash": "sha1:6929ca3d0b65e514ed73c829f6f648f92cc47b80",
+			"hash": "sha1:6929ca3d0b65e514ed73c829f6f648f92cc47b80"
 		},
 		"64bit": {
 			"url": "http://strawberryperl.com/download/5.20.1.1/strawberry-perl-5.20.1.1-64bit-portable.zip",
-			"hash": "sha1:844e7c2d741bda915ece0688bf3a00ab12577460",
+			"hash": "sha1:844e7c2d741bda915ece0688bf3a00ab12577460"
 		}
 	},
 	"post_install":"
